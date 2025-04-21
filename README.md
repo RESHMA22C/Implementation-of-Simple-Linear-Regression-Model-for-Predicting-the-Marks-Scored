@@ -70,7 +70,8 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/98ea46e7-da76-4cda-9c9f-54b3f55f0977)
 
-![image](https://github.com/user-attachments/assets/348b0e34-60c9-430e-8053-23284bf3497b)
+![image](https://github.com/user-attachments/assets/879aa7b2-3f48-4398-8515-9cd675ef103f)
+
 
 
 ## Result:
