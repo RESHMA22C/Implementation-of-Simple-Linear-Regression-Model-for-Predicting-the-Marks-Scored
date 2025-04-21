@@ -58,19 +58,20 @@ plt.show()
 ```
 
 ## Output:
-Head Values
- ![image](https://github.com/user-attachments/assets/063501d8-4ed9-47b3-984f-5103ba109a49)
-Compare Dataset
-   ![image](https://github.com/user-attachments/assets/3b2ccc31-5eb0-403f-9233-832ff21e35f0)
-   ![image](https://github.com/user-attachments/assets/8e602af3-64db-4127-b9d5-1b959a9ff9f7)
-Predication values of X and Y
-    ![image](https://github.com/user-attachments/assets/dda19a47-ec72-4deb-b8ec-b41e2fc2c1d6)
-MSE,MAE and RMSE
-     ![image](https://github.com/user-attachments/assets/787a6ead-20ea-4494-bc9d-d1e5e7374da1)
-Training set
-    ![image](https://github.com/user-attachments/assets/b449ac9d-3e91-4abe-a89e-d690ac3b9cf9)
-Testing Set
-    ![image](https://github.com/user-attachments/assets/c9039680-6492-4e8f-a11f-327807aa4736)
+![image](https://github.com/user-attachments/assets/d26cf7cb-765c-4073-ad97-680fe2ab6164)
+
+![image](https://github.com/user-attachments/assets/e26bdb6c-79cc-4089-a472-ccb968d57b9e)
+
+![image](https://github.com/user-attachments/assets/df44d748-f92f-44d4-9977-67211a72814a)
+
+![image](https://github.com/user-attachments/assets/3ee6c9ee-cefd-4544-bcc6-6cfe804ac211)
+
+![image](https://github.com/user-attachments/assets/734bc181-9e90-4a48-9fac-0a46dc8847ba)
+
+![image](https://github.com/user-attachments/assets/98ea46e7-da76-4cda-9c9f-54b3f55f0977)
+
+![image](https://github.com/user-attachments/assets/348b0e34-60c9-430e-8053-23284bf3497b)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
