@@ -28,6 +28,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 df=pd.read_csv('student_scores.csv')
+print("Name: Reshma C")
+print("Reg no: 212223040168")
 df.head()
 X = df.iloc[:,:-1].values
 X
@@ -59,9 +61,7 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/d26cf7cb-765c-4073-ad97-680fe2ab6164)
-
-![image](https://github.com/user-attachments/assets/e26bdb6c-79cc-4089-a472-ccb968d57b9e)
+![image](https://github.com/user-attachments/assets/3d00c777-ec51-48ae-a3ab-c9e8b1f42116)
 
 ![image](https://github.com/user-attachments/assets/df44d748-f92f-44d4-9977-67211a72814a)
 
